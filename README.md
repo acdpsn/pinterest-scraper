@@ -29,29 +29,13 @@
   
 </p>
 
-# Pinterest-Scraper
+# pinterest-scraper
 
-#### Fetch information about a pin, board, user and many more, without any API KEY or ACCESS TOKEN.
+Fetch information about a pin, board, user and many more, without any API KEY or ACCESS TOKEN.
 
-## Why to use?
+# Installation
 
-- Flexible
-- Exceedingly fast
-- Includes type definition
-- Lightweight
-
-## Features
-
-- ✅ │ Get specific pin
-- ✅ │ Search up to 80 + pins
-- ✅ │ Get information about a user.
-- ✅ │ Get board information
-
-# 🔗 Prerequisites
-
-- NodeJS 16 +
-
-# ❔Installation
+<!-- todo -->
 
 ```console
 $ npm install @myno_21/pinterest-scraper
@@ -100,11 +84,6 @@ async function get() {
   url: 'https://www.pinterest.com/search/pins/?q=happiness'
 }
 ```
-
-# 🔗 Links
-
-- [Github](https://github.com/TrishCX)
-- [Repository](https://github.com/TrishCX/Pinterest-Scraper)
 
 # License
 
