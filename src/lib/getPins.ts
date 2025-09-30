@@ -1,5 +1,5 @@
 import got from "got";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import type { IPosts } from "../typings/index.js";
 /**
  * @default

@@ -1,5 +1,5 @@
 import got from "got";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import type { IPinUser as IUser } from "../typings/index.js";
 /**
  * @default

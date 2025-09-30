@@ -1,0 +1,195 @@
+{
+  "requestParameters": {
+    "id": "1019cd50d16afc11699cb957ac043c446548af5dcd6c2f348e9a4c4a91e18000",
+    "metadata": {},
+    "name": "CloseupPageQuery",
+    "operationKind": "query",
+    "text": null
+  },
+  "variables": {
+    "pinId": "849984129711185550",
+    "isAuth": false
+  },
+  "response": {
+    "data": {
+      "v3GetPinQuery": {
+        "__typename": "V3GetPin",
+        "data": {
+          "adData": null,
+          "description": " ",
+          "dominantColor": "#221315",
+          "embed": null,
+          "gridDescription": " ",
+          "gridTitle": "",
+          "imageSpec_236x": {
+            "dominantColor": null,
+            "height": 441,
+            "type": null,
+            "url": "https://i.pinimg.com/236x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg",
+            "width": 236
+          },
+          "imageSignature": "e0cd2543105c9a6bb29786eefef6980c",
+          "isEligibleForPdp": false,
+          "richSummary": null,
+          "richMetadata": null,
+          "storyPinDataId": null,
+          "seoTitle": "Pin by Gwen A on Art inspiration | Scary art, Art inspiration, Dark art illustrations",
+          "videos": null,
+          "board": {
+            "collaboratedByMe": false,
+            "collaboratorPermissions": null,
+            "entityId": "849984198361428563",
+            "isCollaborative": false,
+            "owner": {
+              "entityId": "849984267080568029",
+              "id": "VXNlcjo4NDk5ODQyNjcwODA1NjgwMjk="
+            },
+            "url": "/drak86doomed/creep/",
+            "id": "Qm9hcmQ6ODQ5OTg0MTk4MzYxNDI4NTYz",
+            "followedByMe": false
+          },
+          "closeupAttribution": {
+            "fullName": "луна",
+            "id": "VXNlcjo3NzM2MzQxNzk2NDc3NDA2ODM="
+          },
+          "commentsDisabled": false,
+          "createdAt": "Fri, 04 Jul 2025 05:07:56 +0000",
+          "domain": "Uploaded by user",
+          "images": {
+            "url": "https://i.pinimg.com/originals/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg" // MARK: img url
+          },
+          "isDownstreamPromotion": false,
+          "isEligibleForAggregatedComments": true,
+          "isGoLinkless": false,
+          "isInstagramApi": false,
+          "isPromoted": false,
+          "isV1IdeaPin": null,
+          "pinJoin": {
+            "visualAnnotation": [],
+            "seoBreadcrumbs": [
+              {
+                "name": "Beauty",
+                "url": "/ideas/beauty/935541271955/"
+              }
+            ]
+          },
+          "link": null,
+          "linkDomain": null,
+          "linkUserWebsite": null,
+          "mobileLink": null,
+          "nativeCreator": {
+            "__typename": "User",
+            "websiteUrl": null,
+            "isPrimaryWebsiteVerified": false,
+            "isDirectToSiteAllowed": false,
+            "id": "VXNlcjo3NzM2MzQxNzk2NDc3NDA2ODM=",
+            "username": "busr4_v97"
+          },
+          "pinnedToBoard": null,
+          "pinner": {
+            "domainUrl": null,
+            "domainVerified": false,
+            "entityId": "849984267080568029",
+            "id": "VXNlcjo4NDk5ODQyNjcwODA1NjgwMjk=",
+            "connectionType": "Cable/DSL",
+            "username": "drak86doomed",
+            "explicitlyFollowedByMe": false,
+            "blockedByMe": false
+          },
+          "promotedIsRemovable": false,
+          "recommendationReason": null,
+          "section": null,
+          "shouldOpenInStream": false,
+          "storyPinData": null,
+          "thirdPartyPinOwner": null,
+          "trackedLink": null,
+          "utmLink": null,
+          "trackingParams": "CwABAAAAEDcyMTQyODM0OTU2OTI3OTYLAAcAAAAPdW5rbm93bi91bmtub3duAA",
+          "imageSpec_orig": {
+            "__typename": "ImageDetails",
+            "url": "https://i.pinimg.com/originals/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageLargeUrl": "https://i.pinimg.com/1200x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg",
+          "seoAltText": "an abstract painting of a woman with flowers in her hair",
+          "isHidden": false,
+          "isUnsafe": false,
+          "promoter": null,
+          "imageSpec_136x136": {
+            "height": 136,
+            "width": 136,
+            "url": "https://i.pinimg.com/136x136/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "shuffle": null,
+          "imageSpec_60x60": {
+            "url": "https://i.pinimg.com/60x60/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_170x": {
+            "url": "https://i.pinimg.com/236x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_474x": {
+            "url": "https://i.pinimg.com/474x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_564x": {
+            "url": "https://i.pinimg.com/564x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_736x": {
+            "url": "https://i.pinimg.com/736x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_600x315": {
+            "url": "https://i.pinimg.com/600x315/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "digitalMediaSourceType": null,
+          "isViewedByOwnerOrEmployeeOrPartnerOfBusiness": null,
+          "visualObjects": [
+            {
+              "isStela": null,
+              "h": 0.635947323704333,
+              "w": 0.94,
+              "x": 0.03,
+              "y": 0.01603228547153781
+            },
+            {
+              "isStela": true,
+              "h": 1,
+              "w": 1,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "category": "art",
+          "closeupUnifiedDescription": " ",
+          "entityId": "849984129711185550", // MARK: post id
+          "title": "",
+          "shouldMute": false,
+          "musicAttributions": [],
+          "linkUtmApplicableAndReplaced": 0,
+          "isOosProduct": false,
+          "isStaleProduct": false,
+          "shoppingFlags": [],
+          "originPinner": {
+            "entityId": "773634179647740683",
+            "id": "VXNlcjo3NzM2MzQxNzk2NDc3NDA2ODM=",
+            "username": "busr4_v97"
+          },
+          "aggregatedPinData": {
+            "aggregatedStats": {
+              "saves": null
+            },
+            "id": "QWdncmVnYXRlZFBpbkRhdGE6NTIxMzk1MTQ0ODg1Njk3MzY3NQ=="
+          },
+          "imageSpec_236": {
+            "url": "https://i.pinimg.com/236x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_474": {
+            "url": "https://i.pinimg.com/474x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "imageSpec_736": {
+            "url": "https://i.pinimg.com/736x/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg"
+          },
+          "mediaAttribution": null,
+          "id": "UGluOjg0OTk4NDEyOTcxMTE4NTU1MA=="
+        }
+      }
+    }
+  }
+}

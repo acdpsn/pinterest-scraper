@@ -2,19 +2,19 @@
   "name": "pinterest-scraper",
   "version": "1.0.0",
   "description": "",
-  "main": "./src/index.js",
-  "type": "module",
-  "repository": {
-    "url": ""
-  },
-  "scripts": {
-    "watch": "tsc --watch"
-  },
   "keywords": [
     "pinterest"
   ],
-  "author": "acdpsn",
+  "repository": {
+    "url": ""
+  },
   "license": "ISC",
+  "author": "acdpsn",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
   "dependencies": {
     "cheerio": "^1.1.2",
     "got": "^12.6.1"

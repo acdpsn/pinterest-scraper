@@ -1,5 +1,5 @@
 import got from "got";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import type { IBoard } from "../typings/IBoard.js";
 
 async function getBoard(url: string) {
