@@ -1,0 +1,30 @@
+{
+  "name": "@acdpsn/pinterest-scraper",
+  "version": "0.1.0",
+  "description": "Fetch information about an image from pinterest",
+  "keywords": [
+    "pinterest"
+  ],
+  "homepage": "https://github.com/acdpsn/pinterest-scraper#readme",
+  "bugs": {
+    "url": "https://github.com/acdpsn/pinterest-scraper/issues"
+  },
+  "repository": {
+    "url": "git+https://github.com/acdpsn/pinterest-scraper.git"
+  },
+  "license": "ISC",
+  "author": "acdpsn",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "got": "^14.4.9"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.5"
+  }
+}
