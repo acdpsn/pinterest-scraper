@@ -19,7 +19,7 @@ import * as Pinterest from "@acdpsn/pinterest-scraper";
 ```ts
 import * as Pinterest from "@acdpsn/pinterest-scraper";
 
-const postId = "849984129711185550";
+const postId = "https://www.pinterest.com/pin/1055599908066279/";
 const response = await Pinterest.get(postId);
 console.log(response);
 ```
@@ -28,11 +28,12 @@ console.log(response);
 
 ```ts
 {
-  imageUrl: 'https://i.pinimg.com/originals/e0/cd/25/e0cd2543105c9a6bb29786eefef6980c.jpg',
-  imageName: '',
-  imageTitle: ' ',
-  uploaderName: 'луна',
-  uploaderUsername: 'busr4_v97'
+  imageUrl: 'https://i.pinimg.com/originals/d1/40/ee/d140eefa29ded8d90579c222736a5f4c.jpg',
+  imageName: 'Omori',
+  imageTitle: 'Omori',
+  description: 'Art by @hyeon__927 on twitter',
+  uploaderName: 'Navi',
+  uploaderUsername: 'The_Wired'
 }
 ```
 

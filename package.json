@@ -1,6 +1,6 @@
 {
   "name": "@acdpsn/pinterest-scraper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fetch information about an image from pinterest",
   "keywords": [
     "pinterest"
